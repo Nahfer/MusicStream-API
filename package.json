@@ -1,9 +1,4 @@
 {
-  "scripts": {
-    "dev": "cd ms-api && npm run dev",
-    "build": "cd ms-api && npm run build",
-    "start": "cd ms-api && npm run start"
-  },
   "devDependencies": {
     "@types/jsonwebtoken": "^9.0.10",
     "@types/next": "^8.0.7",
