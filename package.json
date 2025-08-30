@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "@types/jsonwebtoken": "^9.0.10",
+    "@types/next": "^8.0.7",
+    "@types/node": "^24.2.1",
+    "prisma": "^6.14.0"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.14.0",
+    "bcrypt": "^6.0.0",
+    "formidable": "^3.5.4",
+    "jsonwebtoken": "^9.0.2",
+    "next": "^15.5.2",
+    "zod": "^4.0.17"
+  }
+}
